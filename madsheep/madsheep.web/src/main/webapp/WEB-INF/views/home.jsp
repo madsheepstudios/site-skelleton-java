@@ -8,5 +8,5 @@
 	</ul>
 </div>
 <div id="content">
-	Home
+	Home :D
 </div>
